@@ -3,7 +3,7 @@
     <header id="header">
       <h1>Photo Bomb</h1>
       <nav>
-        <router-link to="/"><i class='fas fa-user'></i></router-link>
+        <router-link to="/"><i class='fas fa-home'></i></router-link>
         <router-link to="/dashboard"><i class='fas fa-user'></i></router-link>
       </nav>
     </header>
